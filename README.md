@@ -1,8 +1,4 @@
 <!-- [![코드트리|실력진단-whgksqls9999](https://banner.codetree.ai/v1/banner/whgksqls9999)](https://www.codetree.ai/profiles/whgksqls9999) -->
-
-## Who am I
-낭만을 전해주고픈 프론트엔드 개발자
-
 ## Blog
 <a href="https://jhb0412.tistory.com/" target="_blank">
   Tistory
