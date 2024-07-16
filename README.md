@@ -1,4 +1,5 @@
 <!-- [![코드트리|실력진단-whgksqls9999](https://banner.codetree.ai/v1/banner/whgksqls9999)](https://www.codetree.ai/profiles/whgksqls9999) -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhgksqls9999&count_bg=%236687DE&title_bg=%2371DC64&icon=&icon_color=%23E7E7E7&title=visitor&edge_flat=false)](https://hits.seeyoufarm.com)
 ## Blog
 <a href="https://jhb0412.tistory.com/" target="_blank">
   Tistory
