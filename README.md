@@ -1,7 +1,7 @@
 <!-- [![코드트리|실력진단-whgksqls9999](https://banner.codetree.ai/v1/banner/whgksqls9999)](https://www.codetree.ai/profiles/whgksqls9999) -->
 
 ## 💼 Career
-- **[2024.07 ~ 현재]** **Ecount ERP** - Front-End Developer  
+- **[2024.07 ~ ]** **Ecount ERP** - Front-End Developer  
   - 웹 기반 ERP 시스템 UI 개발 및 유지보수
 - **[2023.07 ~ 2024.06]** **Samsung SW Academy For Youth (SSAFY)**  
   - Java, Spring, Vue 활용 웹 개발 학습
