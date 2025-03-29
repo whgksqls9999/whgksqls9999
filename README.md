@@ -5,7 +5,7 @@ Ecount ERP - Front-End Developer (July 2024 - Present)
 - Developing and maintaining UI for a web-based ERP system
 - Test Automation – Built automated component unit testing and E2E testing systems
 
-## 🎓 Education & Training
+## 🎓 Education
 Samsung SW Academy For Youth (SSAFY) (July 2023 - June 2024)
 - Learned Java, Spring, and Vue.js for web development
 - Strengthened collaboration and problem-solving skills through team projects
