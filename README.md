@@ -1,11 +1,14 @@
 <!-- [![코드트리|실력진단-whgksqls9999](https://banner.codetree.ai/v1/banner/whgksqls9999)](https://www.codetree.ai/profiles/whgksqls9999) -->
+ 
+## 💻 Work Experience
+Ecount ERP - Front-End Developer (July 2024 - Present)
+- Developing and maintaining UI for a web-based ERP system
+- Test Automation – Built automated component unit testing and E2E testing systems
 
-## 💼 Career
-- **[2024.07 ~ ]** **Ecount ERP** - Front-End Developer  
-  - 웹 기반 ERP 시스템 UI 개발 및 유지보수
-- **[2023.07 ~ 2024.06]** **Samsung SW Academy For Youth (SSAFY)**  
-  - Java, Spring, Vue 활용 웹 개발 학습
-  - 팀 프로젝트를 통한 협업 및 문제 해결 능력 강화
+## 🎓 Education & Training
+Samsung SW Academy For Youth (SSAFY) (July 2023 - June 2024)
+- Learned Java, Spring, and Vue.js for web development
+- Strengthened collaboration and problem-solving skills through team projects
 
 ## 💡 Tech Stack 
 <div style="display: flex;">
