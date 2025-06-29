@@ -3,7 +3,7 @@
 ## 💻 Work Experience
 Ecount ERP - Front-End Developer (July 2024 - Present)
 - Developing and maintaining UI for a web-based ERP system
-- Test Automation – Built automated component unit testing and E2E testing systems
+- Test Automation – Built automated E2E testing systems
 
 ## 🎓 Education
 Samsung SW Academy For Youth (SSAFY) (July 2023 - June 2024)
